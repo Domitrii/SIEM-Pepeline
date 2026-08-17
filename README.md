@@ -73,7 +73,6 @@ This means: *if any single source IP produces more than 5 failed logins within a
 <img width="1470" height="956" alt="Screenshot 2026-08-17 at 12 58 57" src="https://github.com/user-attachments/assets/9ebecf46-33c3-4a43-af4c-88c412ef0945" />
 <img width="1470" height="956" alt="Screenshot 2026-08-17 at 12 59 45" src="https://github.com/user-attachments/assets/092700b4-baaf-4f8d-9b6b-cd549aae2d05" />
 <img width="675" height="72" alt="Screenshot 2026-08-17 at 13 02 49" src="https://github.com/user-attachments/assets/d03d2eae-d15f-4b27-9595-3b8c428863e4" />
-<img width="1470" height="956" alt="Screenshot 2026-08-17 at 12 37 32" src="https://github.com/user-attachments/assets/1f3d65fb-8710-4955-8261-aae77a9753cb" />
 <img width="1126" height="37" alt="Screenshot 2026-08-17 at 13 31 28" src="https://github.com/user-attachments/assets/349e4e0a-17af-4401-bccc-0fca7b118f81" />
 
 
